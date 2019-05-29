@@ -45,3 +45,6 @@ The following links are the notebooks for each key processing workflow process.
 ## References
 
 Keys, R.G. and Foster, D.J., 1998. A data set for evaluating and comparing seismic inversion methods. Comparison of seismic inversion methods on a single real data set, pp.1-12.
+
+## License information
+See the file [LICENSE](https://github.com/rmorel/Viking/blob/master/LICENSE) for information on terms & conditions for usage.
