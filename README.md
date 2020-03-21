@@ -26,21 +26,21 @@ I’m making the processing flow as light as possible, so any common desktop PC 
 
 The following links are the notebooks for each key processing workflow process.
 
-[00 - Fetch data from remote servers](https://github.com/rmorel/Viking/blob/master/00%20-%20Fetch%20data%20from%20remote%20servers.ipynb): Simply download the data.
+[00 - Fetch data from remote servers](https://github.com/rmorel/Viking/blob/master/notebooks/00%20-%20Fetch%20data%20from%20remote%20servers.ipynb): Simply download the data.
 
-[01 - Inspect data and add geometry](https://github.com/rmorel/Viking/blob/master/01%20-%20Inspect%20data%20and%20add%20geometry.ipynb): This data needed extra geometry definitions to be processed.
+[01 - Inspect data and add geometry](https://github.com/rmorel/Viking/blob/master/notebooks/01%20-%20Inspect%20data%20and%20add%20geometry.ipynb): This data needed extra geometry definitions to be processed.
 
-[02 - Fetch and inspect well data](https://github.com/rmorel/Viking/blob/master/02%20-%20Fetch%20and%20inspect%20well%20data.ipynb): Besides fetching and inspecting the well log data, I also create a composite well log file in PDF for each well.
+[02 - Fetch and inspect well data](https://github.com/rmorel/Viking/blob/master/notebooks/02%20-%20Fetch%20and%20inspect%20well%20data.ipynb): Besides fetching and inspecting the well log data, I also create a composite well log file in PDF for each well.
 
-[03 - Burst noise removal](https://github.com/rmorel/Viking/blob/master/03%20-%20Burst%20noise%20removal.ipynb): Investigate if the data is polluted with burst noise.
+[03 - Burst noise removal](https://github.com/rmorel/Viking/blob/master/notebooks/03%20-%20Burst%20noise%20removal.ipynb): Investigate if the data is polluted with burst noise.
 
-[04 - First check stack](https://github.com/rmorel/Viking/blob/master/04%20-%20First%20check%20stack.ipynb): Perform some check stacks and a first brute stack using a single velocity function.
+[04 - First check stack](https://github.com/rmorel/Viking/blob/master/notebooks/04%20-%20First%20check%20stack.ipynb): Perform some check stacks and a first brute stack using a single velocity function.
 
-[05 - Source signature and deghosting filter estimation](https://github.com/rmorel/Viking/blob/master/05%20-%20Source%20signature%20and%20de-ghosting%20filter%20estimation.ipynb): Estimate the deghosting filter using designature deconvolution with the far field source signature.
+[05 - Source signature and deghosting filter estimation](https://github.com/rmorel/Viking/blob/master/notebooks/05%20-%20Source%20signature%20and%20de-ghosting%20filter%20estimation.ipynb): Estimate the deghosting filter using designature deconvolution with the far field source signature.
 
-[06 - Perform deghosting on the whole dataset and stack again](https://github.com/rmorel/Viking/blob/master/06%20-%20Perform%20deghosting%20on%20the%20whole%20dataset%20and%20stack%20again.ipynb): Perform the actual deghosting on the whole data set with the operators estimated on the last step.
+[06 - Perform deghosting on the whole dataset and stack again](https://github.com/rmorel/Viking/blob/master/notebooks/06%20-%20Perform%20deghosting%20on%20the%20whole%20dataset%20and%20stack%20again.ipynb): Perform the actual deghosting on the whole data set with the operators estimated on the last step.
 
-[07 - Mute linear events and stack](https://github.com/rmorel/Viking/blob/master/07%20-%20Mute%20linear%20events%20and%20stack.ipynb): A simple mute of early arrivals and linear noise with a tapered mute function.
+[07 - Mute linear events and stack](https://github.com/rmorel/Viking/blob/master/notebooks/07%20-%20Mute%20linear%20events%20and%20stack.ipynb): A simple mute of early arrivals and linear noise with a tapered mute function.
 
 ## References
 
